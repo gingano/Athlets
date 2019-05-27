@@ -31,6 +31,8 @@
          margin-bottom: 71px;
      }
 
+
+
     .people :nth-child(even) {
         position: relative;
         float: right;
@@ -169,15 +171,10 @@
         width: 174px;
         height: 23px;
         top: 12px;
-        left: -10px;
+        left: 10px;
     }
 
     .person .extra {
         display: none;
     }
-}
-
-
-@media (min-width: 1500px) {
-
 }
